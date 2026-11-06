@@ -8,7 +8,10 @@ Feedback, bug reports and suggestions are welcome via the Issues tab on this rep
 
 Compatibility
 
-- macOS (Apple Silicon)
+-Built and tested on macOS Sequoia 15.5 (Apple Silicon).
+
+Other macOS versions and Intel-based Macs have not yet been tested.
+
 - VST3 format
 - Pro Tools via a VST3 host such as Blue Cat PatchWork
 
